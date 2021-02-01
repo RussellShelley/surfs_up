@@ -36,7 +36,7 @@ only 4 degrees lower at 71--but this does place it slightly below standard room 
 
 Oahu although small, still has microclimates.  It may be that sea-level weather stations have different results than those atop hills. 
 
- -We can find which stations are close to sea-level with the following query.
+ - We can find which stations are close to sea-level with the following query.
 
  ![Sea Level Stations](./Images/Sealevel_stations.png)
 
